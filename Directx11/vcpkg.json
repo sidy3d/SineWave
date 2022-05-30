@@ -1,0 +1,8 @@
+{
+  "name": "sinewave-directx11",
+  "version-string": "0.00.00",
+  "dependencies": [
+    "directxmath",
+    "wil"
+  ]
+}
